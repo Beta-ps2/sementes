@@ -12,4 +12,4 @@ Sobre os botões:
 * Barra de espaço para tecla de ação;
 * ESC para pausar.
 
-O projeto é grande e ainda está em desenvolvimento.
+O projeto ainda está em desenvolvimento.
