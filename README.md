@@ -10,6 +10,8 @@ Todos os personagens do jogo são animais, propositalmente pensado para metáfor
 Sobre os botões:
 * A, W, S, D para movimentação;
 * Barra de espaço para tecla de ação;
+* Enter para pular entre as cenas;
 * ESC para pausar.
 
-Link da demonstração no Youtube
+Nome da Equipe (GRAPE): Gean Carlos, Roberta Reis, André Renan, Paulo Jacques, Elian Gomes.
+Link da demonstração no [Youtube](https://youtube.com/)
