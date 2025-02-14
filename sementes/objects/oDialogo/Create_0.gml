@@ -1,0 +1,3 @@
+texto = [];
+index = 0;
+
